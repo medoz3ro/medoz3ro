@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benjamin Sabo
 - 👀 I’m interested in HTML,CSS, JS
-- 🌱 I’m currently learning the world
+- 🌱 I’m currently learning the World
 
 
 <!---
