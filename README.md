@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benjamin Sabo
-- 👀 I’m interested in SwiftUI
+- 👀 I’m interested in React.js/native
 - 🌱 I’m currently learning the World
 
 
